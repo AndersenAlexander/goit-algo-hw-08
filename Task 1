@@ -26,6 +26,3 @@ def min_cost_to_connect_cables(cables):
     
     return total_cost
 
-# Example usage
-cables = [4, 3, 2, 6]
-print(f"The minimum cost to connect all cables is: {min_cost_to_connect_cables(cables)}")
